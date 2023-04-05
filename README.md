@@ -17,6 +17,8 @@
 
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/2.png)
 
+![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/4crypto_table.png)
+
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/3.png)
 
-![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/4crypto_table.png)
+
