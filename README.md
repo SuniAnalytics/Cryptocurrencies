@@ -13,11 +13,17 @@
   
 ## Visualizations
 
+### Elbow Curve to find best value for K
+
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/1ElbowCurve.png)
 
+### 3D Scatter plot
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/2.png)
 
+### Table - tradable crypto currencies
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/4crypto_table.png)
+
+### HVPlot 
 
 ![](https://github.com/SuniAnalytics/Cryptocurrencies/blob/main/images/3.png)
 
